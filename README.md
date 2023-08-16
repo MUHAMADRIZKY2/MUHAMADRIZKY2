@@ -1,6 +1,6 @@
 #Halo semua!
 
-Perkenalkan nama saya *Muhamad Rizky*\
+Perkenalkan nama saya *Muhamad Rizky*
 
 Saya **mahasiswa** dari (STMIK MARDIRA INDONESIA).\
 Jurusan Sistem Informasi
